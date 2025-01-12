@@ -22,5 +22,5 @@ Este análisis determina los gastos totales y de combustible del trasporte de em
 
 ## Enlace al análisis completo
 Puedes visualizar el análisis completo en formato HTML aquí:  
-[Ver análisis](https://tuusuario.github.io/nombre-del-repositorio/analisis.html)
+[Ver análisis](https://hlmm7.github.io/Analisis_Transporte/main/Analisis empresas paulsen.html)
 
