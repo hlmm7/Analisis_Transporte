@@ -1,6 +1,6 @@
 # Análisis de Gastos de Transporte 
 
-Este análisis determina los gastos totales y de combustible de una empresa de transpote de mercancia privada, la cual se omitira su nombre por seguridad. utilizando datos y herramientas estadísticas para obtener información relevante.
+Este análisis determina los gastos de viáticos y de combustible de una empresa de transpote de mercancia privada, la cual se omitira su nombre por seguridad. utilizando datos y herramientas estadísticas para obtener información relevante.
 
 ## Contenido
 - `Analisis_empresa_trasporte.html`: Visualización interactiva del análisis completo.
